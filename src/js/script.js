@@ -1,4 +1,3 @@
-'use strict'
 const burger = document.querySelector('.nav__burger--burger')
 const close = document.querySelector('.nav__burger--close')
 const linksBox = document.querySelector('.nav__links')

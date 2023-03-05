@@ -74,6 +74,10 @@ body {
 				background-color: $black;
 				color: $white;
 			}
+
+			.active {
+				background-color: $black;
+			}
 		}
 
 		.dark {
@@ -385,7 +389,6 @@ body {
 				color: $red;
 			}
 		}
-
 	}
 }
 
