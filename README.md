@@ -5,5 +5,5 @@ Project made with:
 - JavaScript
 - Gulp.js
 
-## Demo:
+## Live Demo:
 [Forest Group](https://katrine9176.github.io/Forest-Group/)
