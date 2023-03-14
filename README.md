@@ -7,3 +7,7 @@ Project made with:
 
 ## Live Demo:
 [Forest Group](https://katrine9176.github.io/Forest-Group/)
+
+TODO: opis jak uruchomić projekt
+- developer mode ?
+- build ?
